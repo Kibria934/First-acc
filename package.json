@@ -4,8 +4,7 @@
    "description": "",
    "main": "server.js",
    "scripts": {
-      "start": "node server",
-      "dev": "nodemon server"
+      "start": "nodemon app.js"
    },
    "dependencies": {
       "colors": "^1.4.0",
